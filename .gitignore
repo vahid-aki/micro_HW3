@@ -1,0 +1,7 @@
+Drivers/*
+Middlewares/*
+MDK-ARM/*
+!*.uvprojx
+!*.lst
+!*.s
+*.pdf
